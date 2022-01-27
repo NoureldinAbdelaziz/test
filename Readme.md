@@ -1,3 +1,1 @@
-# Hello first repository
-
 # hello
